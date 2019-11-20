@@ -1,4 +1,7 @@
-// boilerplate code sourced from http://stefangabos.ro/jquery/jquery-plugin-boilerplate/
+// Boiler plate code sourced from http://stefangabos.ro/jquery/jquery-plugin-boilerplate/
+// Author - Nirbhay Ashok Pherwani
+// nirbhay.me | github.com/nirbhayph
+
 (function($) {
     //filter child elements in a parent element
     $.fn.filterElements = function(method) {
